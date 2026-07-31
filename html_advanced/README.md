@@ -11,6 +11,7 @@ This project covers the foundational principles of structuring web pages using s
 | **1. Structure your webpage** | Added head and body tags inside html element. | [`1-index.html`](./1-index.html) |
 | **2. The head...** | Configured charset, viewport, title, description meta, and favicon link tags. | [`2-index.html`](./2-index.html) |
 | **3. Simple header, main, footer** | Structured document body using semantic `<header>`, `<main>`, and `<footer>` elements. | [`3-index.html`](./3-index.html) |
+| **4. Aside** | Created article page with updated title and an `<aside>` tag inside `<main>`. | [`article.html`](./article.html) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
