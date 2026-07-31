@@ -36,6 +36,18 @@ This project covers the foundational principles of structuring web pages using s
 | **26. Examples of lists for styleguide** | Added Unordered, Ordered, and Definition lists to styleguide. | [`26-styleguide.html`](./26-styleguide.html) |
 | **27. Separate content** | Added `<hr>` and copyright paragraph inside footer between navigation blocks. | [`27-index.html`](./27-index.html) |
 | **28. Horizontal rule example** | Added Horizontal rule demonstration section to styleguide. | [`28-styleguide.html`](./28-styleguide.html) |
+| **29. Client quotes** | Replaced Testimonial text with `<blockquote>` and `<cite>` tags. | [`29-index.html`](./29-index.html) |
+| **30. Examples of quotes** | Added inline quote (`<q>`) and blockquote examples to styleguide. | [`30-styleguide.html`](./30-styleguide.html) |
+| **31. Address and latest news authors** | Added `<address>` in footer and `<small>` author tags to news articles. | [`31-index.html`](./31-index.html) |
+| **32. Typography section** | Added `<address>`, `<pre>`, and `<mark>` tags to styleguide. | [`32-styleguide.html`](./32-styleguide.html) |
+| **33. Table** | Added a Star Wars Trilogy data table with semantic `scope` attributes to styleguide. | [`33-styleguide.html`](./33-styleguide.html) |
+| **34. Details** | Added `<details>` and `<summary>` elements to styleguide. | [`34-styleguide.html`](./34-styleguide.html) |
+| **35. Replace text logo with image logo** | Replaced text logo with `logo-black.png` image in header and footer. | [`35-index.html`](./35-index.html) |
+| **36. Add images to your sections** | Added images and avatars to Works, About, News, and Testimonials. | [`36-index.html`](./36-index.html) |
+| **37. Social icons** | Replaced footer social text links with inline SVG icons. | [`index.html`](./index.html) |
+| **38. Add a video player in the styleguide** | Added video player with controls, loop, poster, and fallback text. | [`38-styleguide.html`](./38-styleguide.html) |
+| **39. Add an audio player in the styleguide** | Added audio player with controls and fallback text to styleguide. | [`39-styleguide.html`](./39-styleguide.html) |
+| **40. Add an iframe example in the styleguide** | Added YouTube video embed using `<iframe>` to styleguide. | [`styleguide.html`](./styleguide.html) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
