@@ -16,6 +16,7 @@ This project covers the foundational principles of structuring web pages using s
 | **6. Work, News, Testimonial articles** | Added `<article>` tags to Works, Latest news, and Testimonials sections. | [`6-index.html`](./6-index.html) |
 | **7. Navigation** | Replaced Header text with an empty `<nav>` tag inside `<header>`. | [`7-index.html`](./7-index.html) |
 | **8. Level 1 headings** | Added `<h1>Homepage</h1>` tag to `<main>` before the section elements. | [`8-index.html`](./8-index.html) |
+| **9. Level 2 headings** | Added `<h2>` headings to all section elements in main. | [`9-index.html`](./9-index.html) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
