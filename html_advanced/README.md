@@ -13,6 +13,7 @@ This project covers the foundational principles of structuring web pages using s
 | **3. Simple header, main, footer** | Structured document body using semantic `<header>`, `<main>`, and `<footer>` elements. | [`3-index.html`](./3-index.html) |
 | **4. Aside** | Created article page with updated title and an `<aside>` tag inside `<main>`. | [`article.html`](./article.html) |
 | **5. Section** | Added 7 semantic `<section>` tags inside `<main>`. | [`5-index.html`](./5-index.html) |
+| **6. Work, News, Testimonial articles** | Added `<article>` tags to Works, Latest news, and Testimonials sections. | [`6-index.html`](./6-index.html) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
